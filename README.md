@@ -450,6 +450,7 @@ COMMERCIAL TERMS
 |----------|------|---------|-----------------|
 | **RMM** | Remote Monitoring & Management | Monitor and manage endpoints remotely | NinjaRMM, ConnectWise Automate, Kaseya VSA, Datto RMM |
 | **PSA** | Professional Services Automation | Ticketing, billing, contracts, projects | ConnectWise Manage, Autotask, HaloPSA |
+| **Billing Automation** | Cloud and Recurring Service Billing | Reconcile Microsoft 365 licenses and Azure consumption with PSA records. Use custom license billing rules to automate recurring charges for managed users, support, backup, and security | [Sync 365](https://www.sync365license.com/) |
 | **Ticketing** | IT Service Management | Customer request tracking | ServiceNow, Freshdesk, Zendesk |
 | **Documentation** | IT Knowledge Base | Network diagrams, runbooks, passwords | IT Glue, Hudu, Confluence |
 | **Remote Access** | Remote Desktop | Access client machines remotely | Splashtop, ScreenConnect, TeamViewer |
